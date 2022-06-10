@@ -3,7 +3,11 @@ import React, { Component } from 'react'
 export default class traill extends Component {
   render() {
     return (
-      <div>traill</div>
+        <div>
+      <div>traill complete</div>
+      <div>traill sucess</div> 
+       <div>traill sucess</div>
+      </div>
     )
   }
 }
