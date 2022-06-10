@@ -5,7 +5,8 @@ export default class traill extends Component {
     return (
         <div>
       <div>traill complete</div>
-      <div>traill sucess</div>
+      <div>traill sucess</div> 
+       <div>traill sucess</div>
       </div>
     )
   }
